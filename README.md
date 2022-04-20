@@ -1,4 +1,4 @@
-#TinyHash
+# TinyHash
 A tiny hash generator. Turn massive files to a few characters.
 
 ## Installation
